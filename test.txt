@@ -1,7 +1,5 @@
-
 I am master
 master
-=======
-I am selenium
 selenium
+keeping master ahead
 
